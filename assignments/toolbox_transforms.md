@@ -12,19 +12,23 @@ You may choose to recode **any** of Vera Molnar's pieces, but here are some reco
 
 ### Option 1: _Interruptions_ (1968-1969) - Recommended
 <div align="center">
-    <img src="https://dam.org/museum/artists_ui/artists/molnar-vera/interruptions/interruptions-01.jpg" width="400">
+    <img src="./assets/interruptions.png" width="400">
 </div>
 
 A grid of lines with progressive interruption using rotation and displacement. Demonstrates transforms with increasing randomness.
 
 [View Interruptions at DAM](https://dam.org/museum/artists_ui/artists/molnar-vera/interruptions/)
 
-### Option 3: _(Des)Ordres_ (1974)
+### Option 2: _(Des)Ordres_ (1974)
+<div align="center">
+    <img src="./assets/des_ordres.png" width="400">
+</div>
+
 Grid of squares with progressive disorder through rotation and displacement.
 
 [View (Des)Ordres at DAM](https://dam.org/museum/artists_ui/artists/molnar-vera/des-ordres/)
 
-### Other Options
+### Option 3
 Browse the [Vera Molnar collection at DAM](https://dam.org/museum/artists_ui/artists/molnar-vera/) and choose another piece that interests you. Many of her works demonstrate transforms beautifully.
 
 ## Transform Requirements
